@@ -1,11 +1,10 @@
-<img align="center" style="margin-bottom:100px" width=100% src="![github-header-image](https://github.com/yMenezes/yMenezes/assets/93837936/668cc824-6773-4164-babf-83bf45e427c8)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/yMenezes/yMenezes/blob/main/headers/github-header-image(9).png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I solve great challenges using tech. <br><br> From backend development to frontend development, I am <strong>passionate to discover new stuffs</strong> and using them to create high-quality solutions. Today I'm a <strong>systems development technician, and I study Systems Analysis and Development at FATEC São Paulo.</strong> always focused on learning more!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-ymenezes.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymenezes&layout=compact&theme=radical&" />
  </div>
  
  &nbsp;
