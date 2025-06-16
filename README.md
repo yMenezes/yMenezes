@@ -3,9 +3,7 @@
 
 <p align="center">I solve great challenges using tech. <br><br> From backend development to frontend development, I am <strong>passionate to discover new stuffs</strong> and using them to create high-quality solutions. Today I'm a <strong>systems development technician, and I study Systems Analysis and Development at FATEC São Paulo.</strong> always focused on learning more!</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-bice-psi-79.vercel.app/api/top-langs/?username=ymenezes&layout=compact&theme=radical&" />
- </div>
+
  
  &nbsp;
  &nbsp;
